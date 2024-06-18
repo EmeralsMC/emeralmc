@@ -5,7 +5,7 @@ body, html{ font-family: 'Inter', Arial, Helvetica, sans-serif; font-size: 16px;
 
 /* Menu */
 :root {
-     --menu-bg: #1d1d1f;
+     --menu-bg: #292941;
      --menu-color: #fff; 
 }
 
